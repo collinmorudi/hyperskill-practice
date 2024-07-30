@@ -1,0 +1,33 @@
+# IntelliJ IDEA
+.idea
+*.iml
+*.iws
+*.ipr
+out/
+target/
+build/
+
+# Visual Studio Code
+.vscode/
+
+# Other IDEs
+*.suo
+*.user
+*.sln
+*.dbproj
+*.pfx
+
+# Logs
+*.log
+*.err
+
+# Temporary files
+*.tmp
+*~
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Python cache
+__pycache__
